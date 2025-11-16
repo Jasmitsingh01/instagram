@@ -3,3 +3,6 @@
 /package-lock.json
 /serverless.yml
 /trust-policy.json
+/tmp
+/lambda-package.zip
+lambda-package.zip
