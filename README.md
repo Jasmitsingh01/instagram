@@ -12,7 +12,9 @@
 
 *Streamline your Instagram workflow with AI-powered analytics, automated posting, and engagement tools*
 
-[Features](#-features) • [Installation](#-installation) • [API Reference](#-api-reference) • [Deployment](#-deployment)
+**🌐 Production API:** `https://2dvyfuz2cv5fufbddnkk55ah6m0czpew.lambda-url.us-east-1.on.aws`
+
+[Features](#-features) • [Installation](#-installation) • [API Documentation](./API_DOCUMENTATION.md) • [Deployment](#-deployment)
 
 </div>
 
@@ -200,10 +202,17 @@ instagram-automation/
 
 ## 📡 API Reference
 
-### Base URL
+### 🌐 Production Base URL
+```
+https://2dvyfuz2cv5fufbddnkk55ah6m0czpew.lambda-url.us-east-1.on.aws
+```
+
+### Local Development Base URL
 ```
 http://localhost:3001
 ```
+
+> 📚 **For complete API documentation with detailed examples, see [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)**
 
 ### 🔐 Authentication Endpoints
 
